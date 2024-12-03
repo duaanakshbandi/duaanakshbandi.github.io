@@ -15,12 +15,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Vienna, Austria</p>
+
   - align: left
-    image: duaa_pic.jpg
-    content: about_einstein.md
+    image: simba_pic.jpg
+    content: about_simba.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Cat Tree, Vienna, Austria</p>
+      <p>Appointment required</p>
 ---
