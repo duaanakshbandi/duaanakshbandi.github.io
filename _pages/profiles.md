@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p>Vienna, Austria</p>
   - align: left
-    image: prof_pic.jpg
+    image: duaa_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
