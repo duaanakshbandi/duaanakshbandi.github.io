@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Duaa Nakshbandi",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "nakshbandi.duaa@gmail.com",
+    "phone": "(+43) 660 3720035",
+    "url": "https://duaanakshbandi.github.io/",
+    "summary": "Passionate and persistent Software Engineer with a Bachelor of Science degree in Software Engineering and Management from the Technical University of Graz. Strong interest in mathematics, particularly in the mathematical foundations of computer science. Experience in research and project contributions across Europe and the USA.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -31,6 +31,15 @@
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
+    },
+    {
+        "name": "Institute for Advanced Study, Princeton University",
+        "position": "Professor of Theoretical Physics",
+        "url": "https://example.com",
+        "startDate": "1933-01-01",
+        "endDate": "1955-01-01",
+        "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+        "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
