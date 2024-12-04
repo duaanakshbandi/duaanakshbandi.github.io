@@ -24,35 +24,111 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Siemens AG - Research Group T SSP SRA-AT",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2022-07-01",
+      "endDate": "Present",
+      "summary": "Contributed to the development of the Industrial Information Hub (IIH) product, collaborating across teams in the USA, China, India, Germany, and Austria. Designed and implemented a schema-matching algorithm for OPC UA schemas on the IIH aggregation server. Worked on the GraphQL API for the Production Data Model (PDM) core service, transforming OPC UA-based ontologies into a GraphQL object API with advanced filtering capabilities. Deployed multiple IIH applications on AWS using Kubernetes, with Helm charts to manage deployments. Created integration tests for a gRPC OPC connector service in C++ using the GTest framework. Developed and maintained various HTTP endpoints for the IIH core server using C# and .NET",
+      "highlights": ["Technologies: C#, Node.js, C++, Python, Kubernetes, REST APIs, VMware, Workstation, Gitlab, Helm, GraphQL"]
     },
     {
-        "name": "Institute for Advanced Study, Princeton University",
-        "position": "Professor of Theoretical Physics",
-        "url": "https://example.com",
-        "startDate": "1933-01-01",
-        "endDate": "1955-01-01",
-        "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-        "highlights": ["Relativity"]
+        "name": "University of Vienna",
+        "position": "Project Assistant, RAQMYAT Project (Erasmus+ CBHE)",
+        "url": "",
+        "startDate": "2024-07-01",
+        "endDate": "2024-08-01",
+        "summary": "Assisted in coordinating the RAQMYAT Erasmus+ project with the University of Vienna and Unione delle Università del Mediterraneo (UNIMED), supporting the digital transformation of seven Tunisian universities. Organized the RAQMYAT Summer School in Vienna in 2024. Worked closely with University of Vienna’s Project Lead, Lucas Zinner, and Project Team Member, Angela Meyer.",
+        "highlights": []
+    },
+    {
+        "name": "Institute of Interactive Systems and Data Science, Graz University of Technology",
+        "position": "Undergraduate Lab and Teaching Assistant for Human-Computer-Interaction",
+        "url": "",
+        "startDate": "2022-10-01",
+        "endDate": "2024-07-01",
+        "summary": "Worked as a Teaching Assistant (TA) for the course  Human-Computer-Interaction ”, taught by Ao.Univ.-Prof. Dipl.-Ing. Dr.techn Keith Andrews, at the Institute of Interactive Systems and Data Science.",
+        "highlights": [
+            "Maintained and contributed to the Sapphire course management system, an open-source platform used for managing HCI courses at Graz University of Technology.",
+                        
+            "Contributions were acknowledged in Prof. Keith Andrews' paper presented at INTERACT 2023, which discusses strategies for teaching HCI to large undergraduate classes.",
+            
+            "Conducted assignment interviews with students and corrected submissions",
+            
+            "Performed plagiarism checks and maintained the course website."]
+    },
+    {
+        "name": "Institute of Software Technology, Graz University of Technology",
+        "position": "Undergraduate Lab and Teaching Assistant for Object-Oriented Analysis and Design",
+        "url": "",
+        "startDate": "2022-10-01",
+        "endDate": "2024-07-01",
+        "summary": "Worked as a Teaching Assistant (TA) for the course  Object-Oriented Analysis and Design”, taught by Univ.-Prof. Dipl.-Ing. Dr.techn. Alexander Felfernig , M.Sc. Man Le Viet, and Dr.techn. B.Sc. M.Sc. Trang Tran, at the Institute of Software Technology.",
+        "highlights": [
+            "Taught second-year students concepts including: Object Orientation, Object-Relational Mapping, Software Design Principles, Design Patterns, Requirements Engineering, UML Diagrams, Automated Testing.",
+        
+            "Organized workshops and coding labs.",
+    
+            "Conducted assignment interviews with students and corrected submissions.",
+        
+            "Assisted students in understanding course material and answered their questions."]
+    },
+    {
+        "name": "Institute of Interactive Systems and Data Science, Graz University of Technology",
+        "position": "Undergraduate Lab and Teaching Assistant for Project Management",
+        "url": "",
+        "startDate": "2022-10-01",
+        "endDate": "2024-07-01",
+        "summary": "Worked as a Teaching Assistant (TA) for the course “Project Management”, taught by As-soc.Prof. Dipl.-Ing. Dr.techn. Christian Gütl and Mag.rer.nat. Alexander Steinmaurer, at the Institute of Interactive Systems and Data Science.",
+        "highlights": [
+            "Guided students over two semesters in developing and managing software projects to create functioning prototypes.",
+            
+            "Conducted workshops on prototype creation.",
+        
+            "Taught requirement analysis, business plan creation, and software project management fundamentals."]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "organization": "Denver Dev Day",
+      "location": "Microsoft, Denver Tech Center, Colorado, USA",
+      "position": "Event Coordinator and Data Analyst",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "Collaborated with Jerry Nixon, Senior Software Engineer at Microsoft, and Daren May, Director of Software Development at Kahua, in organizing Denver Dev Day 2023, Colorado's premier software summit.",
+      "highlights": ["Collected and analyzed visitor surveys, providing a comprehensive data set to understand attendee feedback.", "Managed speaker logistics and communication as the speaker coordinator."]
+    },
+    {
+        "organization": "Education Directorate of Styria and University of Graz",
+        "location": "Graz, Austria",
+        "position": "Academic Writing Mentor",
+        "url": "",
+        "startDate": "2022-02-01",
+        "endDate": "2024-03-01",
+        "summary": "Mentored high school students over two semesters in developing their pre-scientific papers and diploma theses.",
+        "highlights": ["Provided guidance on various aspects of academic writing, including: literature research, citation styles, paper structure, effective writing techniques.", "Drew upon academic experience to offer valuable insights.", "Assisted students in achieving their academic goals through personalized mentorship."]
+      },
+      {
+          "organization": "RoboCupJunior Austria",
+          "location": "Graz, Austria",
+          "position": "Referee, Rescue Maze",
+          "url": "",
+          "startDate": "RoboCupJunior Austrian Open 2024",
+          "endDate": "",
+          "summary": "Referee for Rescue Maze at the 16th RoboCupJunior Austrian Open 2024.",
+          "highlights": ["Monitored and evaluated the performance of high school students' autonomous robots in the maze run field."]
+        },
+        {
+            "organization": "WeAreDevelopers World Congress",
+            "location": "Berlin, Germany",
+            "position": "Speakers’ Coordinator",
+            "url": "",
+            "startDate": "World Congress 2023",
+            "endDate": "",
+            "summary": "Volunteered at the WeAreDevelopers World Congress in 2023, Europe’s largest Software Engineering and Development event.",
+            "highlights": ["Coordinated speakers and ensured the smooth execution of the program.", "Gained valuable experience in volunteer coordination and event management."]
+          }
   ],
   "education": [
     {
@@ -65,7 +141,18 @@
       "endDate": "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
-    }
+    },
+    {
+        "institution": "University of Zurich, Zurich, Switzerland",
+        "location": "Zurich, Switzerland",
+        "url": "https://www.uzh.ch/",
+        "area": "Software Development",
+        "studyType": "PhD",
+        "startDate": "1905-01-01",
+        "endDate": "1905-01-01",
+        "score": "10",
+        "courses": ["Theory of Relativity"]
+      }
   ],
   "awards": [
     {
