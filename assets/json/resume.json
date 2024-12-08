@@ -232,28 +232,130 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C",
+        "C++",
+        "C#",
+        "Python",
+        "Java",
+        "JavaScript",
+        "Scala"
+      ]
+    }, 
+    {
+      "name": "Computer System Architecture",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "SystemVerilog",
+        "RISC-V",
+        "x86 Assembly",
+        "Verilog HDL"
+      ]
+    }, 
+    {
+      "name": "Data Science",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "NumPy",
+        "Pandas",
+        "R",
+        "Jupyter Notebook",
+        "Google Colab"
+      ]
+    }, 
+    {
+      "name": "Databases",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "SQL",
+        "PostgreSQL",
+        "Redis"
+      ]
+    }, 
+    {
+      "name": "DevOps",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Kubernetes",
+        "AWS",
+        "Helm Charts",
+        "Docker"
+      ]
+    }, 
+    {
+      "name": "Computer Graphics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "OpenCV"
+      ]
+    }, 
+    {
+      "name": "Testing",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Unit Testing",
+        "Test-Driven Development",
+        "Integration Testing",
+        " Mocking"
+      ]
+    }, 
+    {
+      "name": "API Development",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "RESTful APIs",
+        "GraphQL",
+        "Postman",
+        "Swagger"
+      ]
+    }, 
+    {
+      "name": "Tools & Technologies",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Git: GitHub, GitLab",
+        "Virtual Machines: VirtualBox, VMware"
+      ]
+    }, 
+    {
+      "name": "Declarative Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Prolog"
       ]
     }
   ],
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic Knowledge",
       "icon": ""
     }
   ],
@@ -273,14 +375,14 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Dr. Angela Meyer, Research Services, University of Vienna",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Duaa Nakshbandi is a delight to work with. She is not only a very reliable, proactive and dedicated person, but also forward thinking and does not need many instructions to know what to do. Her excellent knowledge of English, German and Arabic and her exemplary interpersonal and organisational skills enabled the discharge of her assignments with maximum efficiency..."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Prof. Dr. Keith Andrews, Institute of Interactive Systems and Data Science, Thechnical University of Graz",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "While studying at Graz University of Technology, Duaa Nakshbandi worked as a tutor twice for my course “Human-Computer Interaction” (Summer Semester 2023 and 2024). Duaa was a valuable member of my teaching team. She was committed and motivated and demonstrated both organisational flair and technical competence. In addition, Duaa wrote her Bachelor’s Thesis under my supervision. She worked dilligently and thoroughly and produced some excellent results."
     }
   ],
   "projects": [
